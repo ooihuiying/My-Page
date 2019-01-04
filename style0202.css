@@ -1,0 +1,19 @@
+body{
+    color: pink;
+    background-color: black;
+    text-decoration-style: wavy;
+    text-align: center;
+    font-size: medium;
+}
+
+h1{
+    color: whitesmoke
+}
+
+#Dragon{
+    opacity: 0.9;
+}
+
+#Dragon:hover{
+    opacity: 1;
+}
